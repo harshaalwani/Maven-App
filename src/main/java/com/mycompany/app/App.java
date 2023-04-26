@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! from Aws" );
+        System.out.println( "Hello World! from Aws-26-04-2022" );
     }
 }
